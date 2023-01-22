@@ -6,4 +6,4 @@ Its pretty basic but
 
 I'm happy with how it came out.
 
-I used Angela Yu's way
+Based on Angela Yu's Course
